@@ -10,7 +10,7 @@ Customization: Tailor your news feed based on your interests, making your news c
 Tech Stack: Crafted with HTML, CSS, and JavaScript, leveraging powerful APIs to bring you a comprehensive news platform.
 How to Experience:
 
-Visit YourGitHubUsername/YourNewsAggregatorRepo to explore the project.
+Visit https://github.com/bhashkar017/NEWS-WEBSITE to explore the project.
 Dive into different sections, customize your news feed, and witness the dynamic functionalities in action.
 Don't forget to ⭐️ the repository if you find it valuable!
 Excited to share this project with the GitHub community! Your feedback and contributions are warmly welcomed.
